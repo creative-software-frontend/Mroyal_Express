@@ -12,8 +12,8 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: 'Takeway Courier ',
-  description: 'dashboard interface',
+  title: 'Mroyal Express',
+  description: 'dashboard',
 };
 
 export default async function RootLayout({ children }) {
