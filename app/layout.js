@@ -12,7 +12,7 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: 'Mroyal Express',
+  title: 'Mridha Royal Express',
   description: 'dashboard',
 };
 
